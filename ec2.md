@@ -1,5 +1,9 @@
 ## Paste your link below
-https://trello.com/invite/b/6hbXQ5Yj/ATTI666609d49d43036a8f594319a8e1f6d3EB520696/qa-testing-demo
+Site link:
 http://3.19.72.196/
+
+Manual Testing trello link:
+https://trello.com/invite/b/N9cFi77J/ATTI80f6413228ff1cb77e0741a14f3a98ad88AAE305/qa-assessment
+
 
 
